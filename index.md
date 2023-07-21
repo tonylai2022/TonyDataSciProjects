@@ -8,6 +8,10 @@ In this project, I utilized Power BI data visualization techniques to analyze th
 
 <img src="images/PowerBI.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Excel-white?logo=Excel)](#) 
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#) 
+
 [View notebook on Kaggle](https://www.kaggle.com/datasets/laimingwa/viewersresponses)
 
 ---
