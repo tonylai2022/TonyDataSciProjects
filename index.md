@@ -1,4 +1,4 @@
-## Selected projects in Power BI, Regression and EDA
+## Selected projects in Power BI, Regression and Exploratory Data Analysis
 
 ---
 
