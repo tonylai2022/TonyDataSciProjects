@@ -17,7 +17,6 @@ I visualized the sales data using GeoPandas to gain further insights into the ge
 
 <img src="images/AdidasSalesMap.png?raw=true" />
 <img src="images/AdidasHeatMap.png?raw=true" />
-<img src="images/AdidasEva.png?raw=true" />
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
