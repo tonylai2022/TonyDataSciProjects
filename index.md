@@ -2,6 +2,21 @@
 
 ---
 
+### Crypto Trading Strategy Analysis (Backtesting)
+
+A comprehensive sample to backtest the strategy of trading Crypto using Python, Binance API and Glassnode API, including regression, optimization and visualization
+
+<img src="images/pnl_comparison.JPG?raw=true"/>
+
+[![](https://img.shields.io/badge/Excel-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/SQL-white?logo=Matplotlib)](#) 
+[![](https://img.shields.io/badge/PowerBI-white?logo=pandas)](#) 
+[![](https://img.shields.io/badge/PowerBI-white?logo=NumPy)](#) 
+
+[View code on Github](https://github.com/tonylai2022/eth_backtest_analysis_sample)
+
+---
+
 ### Power BI for visualizing Word Cup 2018 live viewer response on sponsored logos
 
 In this project, I utilized Power BI data visualization techniques to analyze the level of engagement of audiences during a live soccer match, and extracted valuable insights to inform actionable decisions.
